@@ -1,7 +1,12 @@
 {
-  "name": "airbnb",
+  "name": "freeboard",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "author": {
+    "name": "TylerSong",
+    "email": "wsc7202@gmail.com",
+    "url": "https://www.tylerblog.store/"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
